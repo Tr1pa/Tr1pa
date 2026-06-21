@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-my bio: [Tr1mpa](https://tr1mpa.site/)
+my bio: [Link](https://tr1mpa.site/)
 <!--
 **Tr1pa/Tr1pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
